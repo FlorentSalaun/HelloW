@@ -1,15 +1,15 @@
-# HelloW
+##HelloW
 Ceci fais parti de ma formation
 
-#FloS
+###FloS
 Etudiant ou pas
 
-#Experiences professionnelles
+###Experiences professionnelles
 Rien de très parlpitant mais que des choses que je ne veux pas avoir a refaire
-hormis mon stage a 42
+hormis mon stage a _42_
 
-#Formation
+###Formation
 None
 
-#Pourquoi je suis sur simplonline ?
+###Pourquoi je suis sur simplonline ?
 Me former au web & apprendre
