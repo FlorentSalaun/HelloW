@@ -20,5 +20,4 @@ pour mettre en gras mais que l'html est pris en compte j'apprend le markdown c'
 est toujours bon a prendre !
 
 Ah oui, blink ne fonctionne malheuresment pas ou ca viens peu etre de mon navigateur.
-
-<span style="text-decoration:underline">Test</span>
+Et souligner me pose problème ^^
