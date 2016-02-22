@@ -13,3 +13,10 @@ None
 
 ###Pourquoi je suis sur simplonline ?
 Me former au web & apprendre
+
+####P.S
+Bon je viens de voir que les underscore ( _ ) ne fonctionnnent pas comme prévu 
+pour mettre en gras mais que l'html est pris en compte j'apprend le markdown c'
+est toujours bon a prendre !
+
+<blink>Coucou</blink>
