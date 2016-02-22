@@ -19,7 +19,4 @@ Bon je viens de voir que les underscore ( _ ) ne fonctionnnent pas comme prévu
 pour mettre en gras mais que l'html est pris en compte j'apprend le markdown c'
 est toujours bon a prendre !
 
-Ah oui, blink ne fonctionne malheuresment pas ou ca viens peu etre de mon naviga
-teur.
-
-<p style="text-decoration: underline red;">Coucou</p>
+Ah oui, blink ne fonctionne malheuresment pas ou ca viens peu etre de mon navigateur.
