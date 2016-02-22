@@ -21,4 +21,4 @@ est toujours bon a prendre !
 
 Ah oui, blink ne fonctionne malheuresment pas ou ca viens peu etre de mon navigateur.
 
-<img src = "https://www.google.fr/images/srpr/logo11w.png" title = "google logo" alt = "Google logo">
+<span style="text-decoration:underline">Test</span>
